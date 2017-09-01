@@ -1,0 +1,42 @@
+{
+  "name": "vue-spacebro-client",
+  "version": "2.1.1-a",
+  "description": "spacebro-client implemantation for vuejs and vuex",
+  "main": "dist/build.js",
+  "scripts": {
+    "build": "webpack --progress --hide-modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spacebro/vue-spacebro-client.git"
+  },
+  "keywords": [
+    "vuejs",
+    "socket",
+    "vue",
+    "socket.io",
+    "spacebro",
+    "websocket",
+    "socket.io-client",
+    "spacebro-client",
+    "realtime",
+    "flux",
+    "vuex",
+    "redux"
+  ],
+  "author": "Emmanuel Geoffray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spacebro/vue-spacebro-client/issues"
+  },
+  "homepage": "https://github.com/spacebro/vue-spacebro-client#readme",
+  "dependencies": {
+    "spacebro-client": "^0.4.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.3.13",
+    "webpack": "^2.2.0-rc.3"
+  }
+}
