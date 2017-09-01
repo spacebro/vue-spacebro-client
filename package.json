@@ -1,6 +1,6 @@
 {
   "name": "vue-spacebro-client",
-  "version": "2.1.1-a",
+  "version": "0.0.0",
   "description": "spacebro-client implemantation for vuejs and vuex",
   "main": "dist/build.js",
   "scripts": {
