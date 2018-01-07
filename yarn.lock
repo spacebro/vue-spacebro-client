@@ -2682,9 +2682,9 @@ source-map@^0.5.3, source-map@^0.5.6, source-map@~0.5.1, source-map@~0.5.3:
   version "0.5.7"
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.5.7.tgz#8a039d2d1021d22d1ea14c80d8ea468ba2ef3fcc"
 
-spacebro-client@^0.4.2:
-  version "0.4.2"
-  resolved "https://registry.yarnpkg.com/spacebro-client/-/spacebro-client-0.4.2.tgz#409df691e0b412ad157c2be6b82265cffbb959b3"
+spacebro-client@^0.4.5:
+  version "0.4.5"
+  resolved "https://registry.yarnpkg.com/spacebro-client/-/spacebro-client-0.4.5.tgz#f3c8144027240475a124cafd404c7cf3c62d8279"
   dependencies:
     assignment "^2.2.1"
     babel-runtime "6.23.0"
