@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/spacebro/vue-spacebro-client#readme",
   "dependencies": {
-    "spacebro-client": "^0.4.2"
+    "spacebro-client": "^0.4.5"
   },
   "devDependencies": {
     "babel-cli": "^6.11.4",
